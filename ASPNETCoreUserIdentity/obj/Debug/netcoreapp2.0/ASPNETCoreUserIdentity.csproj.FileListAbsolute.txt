@@ -1,0 +1,12 @@
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.deps.json
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.runtimeconfig.json
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.runtimeconfig.dev.json
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.dll
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\bin\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.pdb
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.csprojAssemblyReference.cache
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.csproj.CoreCompileInputs.cache
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.AssemblyInfoInputs.cache
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.AssemblyInfo.cs
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.dll
+D:\Haseeb_apps\ASPNETCoreUserIdentity\ASPNETCoreUserIdentity\obj\Debug\netcoreapp2.0\ASPNETCoreUserIdentity.pdb
